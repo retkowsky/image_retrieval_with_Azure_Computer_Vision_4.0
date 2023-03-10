@@ -9,3 +9,11 @@
 - **Retrieve Images:** Use the top N vectors similar to the search query and retrieve images corresponding to those vectors from your photo library to provide as the final result.
 
 <img src="https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/media/image-retrieval.png">
+
+## Some examples
+
+### Example 1
+<img src="car.jpg">
+
+### Example 2
+<img src="xbox.jpg">
