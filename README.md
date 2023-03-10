@@ -12,7 +12,7 @@
 
 
 ## Python demo notebook
-<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/Azure%20AutoML%20for%20Images%20-%20Flowers%20Classification%20-%20SDK%20v2.ipynb">Python demo notebook</a>
+<a href="https://github.com/retkowsky/image_retrieval_with_Azure_Computer_Vision_4.0/blob/main/Image%20retrieval%20(version%204.0%20preview)%20with%20Azure%20Computer%20Vision.ipynb">Python demo notebook</a>
 
 ## Some examples
 
