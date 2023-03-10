@@ -10,6 +10,10 @@
 
 <img src="https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/media/image-retrieval.png">
 
+
+## Python demo notebook
+
+
 ## Some examples
 
 ### Example 1
