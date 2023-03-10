@@ -1,4 +1,4 @@
-# Image retrieval with Azure Computer Vision V4.0 (Public Preview)
+# Image retrieval with Azure Computer Vision V4.0 (Public Preview) using vector embeddings
 
 **Vector embeddings** are a way of representing content—text or images—as vectors of real numbers in a high-dimensional space. Vector embeddings are often learned from large amounts of textual and visual data using machine learning algorithms, such as neural networks. Each dimension of the vector corresponds to a different feature or attribute of the content, such as its semantic meaning, syntactic role, or context in which it commonly appears.
 
@@ -12,7 +12,7 @@
 
 
 ## Python demo notebook
-
+<a href="https://github.com/retkowsky/azure_automl_for_images_python_sdk_v2/blob/main/Azure%20AutoML%20for%20Images%20-%20Flowers%20Classification%20-%20SDK%20v2.ipynb">Python demo notebook</a>
 
 ## Some examples
 
